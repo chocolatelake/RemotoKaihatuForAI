@@ -183,3 +183,7 @@ with t2:
  * 起動コマンド:
    * Terminal A: streamlit run app.py
    * Terminal B: python watcher.py
+
+
+#さーバー
+http://192.168.11.9:8501
