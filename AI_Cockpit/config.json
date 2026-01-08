@@ -1,6 +1,6 @@
 {
-    "project_path": "C:/Users/\u307b\u3063\u304f\u3093/Repositories/TToDo",
+    "project_path": "C:/Users/ほっくん/Repositories/TToDo",
+    "branch": "main",
     "run_cmd": "dotnet run --project DisCord",
-    "kill_cmd": "taskkill /F /IM DisCord.exe",
-    "branch": "main"
+    "kill_cmd": "taskkill /F /IM DisCord.exe"
 }
