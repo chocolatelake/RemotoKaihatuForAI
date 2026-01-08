@@ -1,6 +1,6 @@
 {
-    "project_path": "C:/Users/ほっくん/Repositories/iCloudRenkei",
-    "branch": "main",
+    "project_path": "C:/Users/\u307b\u3063\u304f\u3093/Repositories/iCloudRenkei",
     "run_cmd": "dotnet run",
-    "kill_cmd": "taskkill /F /IM TToDo.exe"
+    "kill_cmd": "",
+    "branch": "main"
 }
